@@ -9,7 +9,7 @@ import Modal from 'react-bootstrap/Modal'
 import Button from 'react-bootstrap/Button'
 
 // eslint-disable-next-line react/prop-types
-export default function NavBar({ toggleStyle }) {
+export default function NavBar({ toggleStyle, reload }) {
 
     const navigate = useNavigate()
     const token = getToken()
@@ -23,10 +23,8 @@ export default function NavBar({ toggleStyle }) {
     const handleLogClose = () => setShowLog(false)
     const handleLogShow = () => setShowLog(true)
 
-
     return (
         <>
-
         <Modal
          show={showLog}
          onHide={handleLogClose}
@@ -66,7 +64,11 @@ export default function NavBar({ toggleStyle }) {
 
 
                 </section>
-                <img className="color-scheme-toggle" src={nightMode} onClick={toggleStyle} />
+                <img className="color-scheme-toggle" src={nightMode} 
+                onClick={() => {
+                    toggleStyle()
+                    reload()
+                }} />
                 <Dropdown>
                     <Dropdown.Toggle variant="secondary">Navigate</Dropdown.Toggle>
                     <Dropdown.Menu>
