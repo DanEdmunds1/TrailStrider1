@@ -23,5 +23,5 @@ urlpatterns = [
     path('api/reviews/', include('reviews.urls')),
     path('api/hikers/', include('hikers.urls')),
     path('api/auth/', include('users.urls')),
-      re_path(r'^.*$', index)
+    re_path(r'^.*$', index)
 ]
