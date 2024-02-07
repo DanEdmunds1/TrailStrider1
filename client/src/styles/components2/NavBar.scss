@@ -1,0 +1,78 @@
+.navbar {
+    background-color: #953553;
+    height: 8vh;
+    text-align: center;
+    margin: 0;
+
+    .nav-left-box {
+        .logreg {
+            color: black;
+            margin-left: 15px;
+            font-weight: 700;
+
+            &:hover {
+                color: white
+            }
+        }
+    }
+
+    .logo-img {
+        height: 60px;
+        margin: 0 0 0 15px;
+    }
+
+    .nav-profile-img {
+        height: 50px;
+        margin: 0 0 0 10px;
+    }
+
+    .color-scheme-toggle {
+        height: 60px;
+
+        &:hover {
+            cursor: pointer
+        }
+    }
+
+    .log-out-button {
+        margin: 0 0 0 20px;
+        background-color: black;
+        color: rgb(148, 148, 148);
+        border: 1px solid rgb(148, 148, 148);
+        background-color: black;
+        border-radius: 5px;
+        box-shadow: 5px 5px rgb(85, 85, 85);
+
+        &:hover {
+            transform: scale(1.2);
+            box-shadow: none;
+            transform: translate(5px, 5px);
+        }
+    }
+}
+
+$text-color: rgb(148, 148, 148);
+$background-color: black;
+
+button[id="react-aria237342231-:r0:"] {
+    background-color: $background-color;
+    border-color: $background-color;
+    margin-right: 10px;
+    color: $text-color;
+
+    &:hover {
+        background-color: $background-color;
+        border-color: $background-color;
+        color: $text-color;
+    }
+
+    &:active {
+        background-color: $background-color;
+        border-color: $background-color;
+        color: $text-color;
+    }
+}
+
+a[data-rr-ui-dropdown-item].dropdown-item[role="button"][tabindex="0"][href="/trails"] {
+    color: $text-color
+}

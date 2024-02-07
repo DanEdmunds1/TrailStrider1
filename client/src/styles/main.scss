@@ -1,0 +1,15 @@
+@import './components/Home.scss';
+@import './components/NavBar.scss';
+@import './components/SingleTrail.scss';
+@import './components/Footer.scss';
+@import './components/AllTrails.scss';
+@import './components/Profile.scss';
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import './components/Filters.scss';
+@import './components/LoginRegister.scss';
+
+
+body {
+    margin: 0;
+    background-color: aliceblue;
+}

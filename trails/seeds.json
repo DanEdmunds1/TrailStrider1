@@ -1,0 +1,317 @@
+[
+    {
+      "model": "trails.trail",
+      "pk": 1,
+      "fields": {
+        "name": "Inca Trail",
+        "length": 43.0,
+        "elevation": 1210.0,
+        "descent": 1220.0,
+        "description": "Embark on the famous Inca Trail in Peru, a 43-kilometer journey leading to the ancient city of Machu Picchu. This challenging trail offers a glimpse into the rich history of the Inca civilization, with breathtaking views of mountainous landscapes and Incan ruins. Prepare for a strenuous but rewarding adventure with an elevation gain of 1210 meters and a descent of 1220 meters.",
+        "difficulty": 4,
+        "image": "https://www.intrepidtravel.com/adventures/wp-content/uploads/2016/05/Machu-Picchu-Peru-Intrepid-Travel.jpg",
+        "region": "Peru",
+        "owner": 1
+      }
+    },
+    {
+      "model": "trails.trail",
+      "pk": 2,
+      "fields": {
+        "name": "Grand Canyon Rim-to-Rim",
+        "length": 24.0,
+        "elevation": 2200.0,
+        "descent": 2686.0,
+        "description": "Experience the awe-inspiring Grand Canyon on the Rim-to-Rim trail, a 24-kilometer journey that takes you from one rim to the other. Marvel at the geological wonders, including breathtaking vistas and rock formations. This challenging trail boasts an elevation gain of 2200 meters and a descent of 2686 meters, providing a truly unforgettable adventure.",
+        "difficulty": 5,
+        "image": "https://npf-prod.imgix.net/uploads/shutterstock_97706066_1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=647&q=80&w=1150",
+        "region": "Arizona, USA",
+        "owner": 1
+      }
+    },
+    {
+      "model": "trails.trail",
+      "pk": 3,
+      "fields": {
+        "name": "Cinque Terre Coastal Trail",
+        "length": 12.0,
+        "elevation": 500.0,
+        "descent": 500.0,
+        "description": "Explore the stunning coastline of Cinque Terre in Italy on this 12-kilometer coastal trail. Enjoy panoramic views of colorful seaside villages, terraced vineyards, and the crystal-clear waters of the Mediterranean. With a moderate difficulty level, this trail offers a delightful experience with an elevation gain and descent of 500 meters each.",
+        "difficulty": 3,
+        "image": "https://www.thetrainline.com/cms/media/1339/italy-cinque-terre.jpg?mode=crop&width=860&height=574&quality=70",
+        "region": "Italy",
+        "owner": 1
+      }
+    },
+    {
+      "model": "trails.trail",
+      "pk": 4,
+      "fields": {
+        "name": "Tongariro Alpine Crossing",
+        "length": 19.4,
+        "elevation": 1120.0,
+        "descent": 760.0,
+        "description": "Venture into the otherworldly landscapes of New Zealand on the Tongariro Alpine Crossing, a 19.4-kilometer trek through volcanic terrains. Encounter emerald lakes, steaming vents, and iconic Mount Ngauruhoe. With a challenging difficulty level, this trail includes an elevation gain of 1120 meters and a descent of 760 meters.",
+        "difficulty": 4,
+        "image": "https://images.alltrails.com/eyJidWNrZXQiOiJhc3NldHMuYWxsdHJhaWxzLmNvbSIsImtleSI6InVwbG9hZHMvcGhvdG8vaW1hZ2UvNTU4ODk4NTUvYTdhYzJjYzExMjAyYzliYTg2NmJkOTJiNTU4YTNkODMuanBnIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJ3ZWJwIiwicmVzaXplIjp7IndpZHRoIjoyMDQ4LCJoZWlnaHQiOjIwNDgsImZpdCI6Imluc2lkZSJ9LCJyb3RhdGUiOm51bGwsImpwZWciOnsidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWlzZVNjYW5zIjp0cnVlLCJxdWFudGlzYXRpb25UYWJsZSI6M319fQ==",
+        "region": "New Zealand",
+        "owner": 1
+      }
+    },
+    {
+      "model": "trails.trail",
+      "pk": 5,
+      "fields": {
+        "name": "Zion Narrows",
+        "length": 16.0,
+        "elevation": 152.0,
+        "descent": 152.0,
+        "description": "Discover the wonders of the Zion Narrows in Utah, USA, a 16-kilometer hike through the narrow slot canyons of Zion National Park. Wade through the Virgin River and marvel at towering sandstone cliffs. This moderately challenging trail offers an elevation gain and descent of 152 meters each, providing a unique and refreshing adventure.",
+        "difficulty": 3,
+        "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/d0/15/48.jpg",
+        "region": "Utah, USA",
+        "owner": 1
+      }
+    },
+    {
+      "model": "trails.trail",
+      "pk": 6,
+      "fields": {
+        "name": "Carl Wheezer Memorial Trail",
+        "length": 10.0,
+        "elevation": 20.0,
+        "descent": 20.0,
+        "description": "Take a peaceful stroll around this scenic vista dedicated to celebrating the work and achievements of Carl Wheezer form Jimmy Neutron",
+        "difficulty": 0.0,
+        "image": "https://res.cloudinary.com/dnpbbx7kb/image/upload/v1705597950/trailstrider/daau2h4rlclgyyl8kq8h.jpg",
+        "region": "Retroville, Texas, USA",
+        "owner": 1
+      }
+    },
+    {
+      "model": "trails.trail",
+      "pk": 7,
+      "fields": {
+        "name": "Torres del Paine Circuit",
+        "length": 82.0,
+        "elevation": 2500.0,
+        "descent": 2500.0,
+        "description": "Embark on the epic Torres del Paine Circuit in Chile, a 82-kilometer trek that takes you through the stunning landscapes of Torres del Paine National Park. Marvel at granite peaks, glaciers, and pristine lakes. This challenging trail offers an elevation gain and descent of 2500 meters each, providing a truly immersive Patagonian experience.",
+        "difficulty": 5,
+        "image": "https://worldlyadventurer.com/wp-content/uploads/2022/11/Chile-Patagonia-Torres-del-Paine-National-Park-Los-Cuernos3.jpg.webp",
+        "region": "Chile",
+        "owner": 1
+      }
+    },
+    {
+      "model": "trails.trail",
+      "pk": 8,
+      "fields": {
+        "name": "Pacific Crest Trail",
+        "length": 4265.0,
+        "elevation": 8487.0,
+        "descent": 8285.0,
+        "description": "Embark on a thru-hiking adventure along the Pacific Crest Trail, stretching over 4,265 kilometers from the southern border of the United States to the northern border of Canada. Traverse diverse ecosystems, from the arid deserts of California to the lush forests of Washington. This challenging trail offers an elevation gain of 8487 meters and a descent of 8285 meters.",
+        "difficulty": 5,
+        "image": "https://lp-cms-production.imgix.net/2020-09/shutterstockRF_766134589.jpg?auto=format&w=1440&h=810&fit=crop&q=75",
+        "region": "USA, Canada",
+        "owner": 1
+      }
+    },
+    {
+      "model": "trails.trail",
+      "pk": 9,
+      "fields": {
+        "name": "West Highland Way",
+        "length": 154.5,
+        "elevation": 3590.0,
+        "descent": 3590.0,
+        "description": "Experience the beauty of the Scottish Highlands on the West Highland Way, a 154.5-kilometer long-distance trail. Journey through picturesque landscapes, lochs, and historic ruins. With a moderate difficulty level, this trail offers an elevation gain and descent of 3590 meters each, providing a captivating trek through Scotland's rugged terrain.",
+        "difficulty": 3,
+        "image": "https://d1xw84ija6gjgy.cloudfront.net/production/d759175de8ea5b1d9a2660e45554894f/conversions/720p.jpg",
+        "region": "Scotland",
+        "owner": 1
+      }
+    },
+    {
+      "model": "trails.trail",
+      "pk": 10,
+      "fields": {
+        "name": "Annapurna Circuit",
+        "length": 160.0,
+        "elevation": 5416.0,
+        "descent": 5416.0,
+        "description": "Embark on the iconic Annapurna Circuit in Nepal, a 160-kilometer trek that encircles the Annapurna Massif. Immerse yourself in diverse landscapes, from subtropical forests to high alpine meadows. This challenging trail offers an elevation gain and descent of 5416 meters each, providing breathtaking views of the Himalayas.",
+        "difficulty": 4,
+        "image": "https://pictures.altai-travel.com/1920x0/annapurna-sanctuary-1045.jpg",
+        "region": "Nepal",
+        "owner": 1
+      }
+    },
+    {
+      "model": "trails.trail",
+      "pk": 11,
+      "fields": {
+        "name": "Queen Charlotte Track",
+        "length": 71.0,
+        "elevation": 2090.0,
+        "descent": 2090.0,
+        "description": "Explore the stunning coastal landscapes of New Zealand on the Queen Charlotte Track, a 71-kilometer trail in the Marlborough Sounds region. Enjoy panoramic views of the Queen Charlotte Sound and lush native forests. With a moderate difficulty level, this trail offers an elevation gain and descent of 2090 meters each, providing a memorable trek through the South Island.",
+        "difficulty": 3,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Te_Mahia_Bay.jpg/800px-Te_Mahia_Bay.jpg",
+        "region": "New Zealand",
+        "owner": 1
+      }
+    },
+    {
+      "model": "trails.trail",
+      "pk": 12,
+      "fields": {
+        "name": "Kungsleden Trail",
+        "length": 440.0,
+        "elevation": 2350.0,
+        "descent": 2350.0,
+        "description": "Discover the pristine wilderness of Sweden on the Kungsleden Trail, a 440-kilometer trek through the Swedish Lapland. Immerse yourself in the Arctic landscapes, featuring mountains, fjords, and vast tundra. With a moderate difficulty level, this trail offers an elevation gain and descent of 2350 meters each, providing a unique Scandinavian hiking experience.",
+        "difficulty": 3,
+        "image": "https://i0.wp.com/she-explores.com/wp-content/uploads/2016/11/download-3-3.jpg?resize=1024%2C680&ssl=1",
+        "region": "Sweden",
+        "owner": 1
+      }
+    },
+    {
+      "model": "trails.trail",
+      "pk": 13,
+      "fields": {
+        "name": "Kalalau Trail",
+        "length": 35.4,
+        "elevation": 1086.0,
+        "descent": 1086.0,
+        "description": "Embark on the Kalalau Trail along the Na Pali Coast in Hawaii, USA. This 35.4-kilometer trek takes you through lush green valleys, towering sea cliffs, and pristine beaches. With a challenging difficulty level, this trail offers an elevation gain and descent of 1086 meters each, providing an unforgettable journey through the tropical paradise of Kauai.",
+        "difficulty": 4,
+        "image": "https://kalalautrail.com/wp-content/uploads/2015/11/2014-12-12-Kalalau-Trail-Napali-Coast-Kauai_11.57.31.jpg",
+        "region": "Hawaii, USA",
+        "owner": 1
+      }
+    },
+    {
+      "model": "trails.trail",
+      "pk": 14,
+      "fields": {
+        "name": "Tour du Mont Blanc",
+        "length": 170.0,
+        "elevation": 10000.0,
+        "descent": 10000.0,
+        "description": "Experience the spectacular Tour du Mont Blanc, a 170-kilometer trek that circumnavigates the Mont Blanc massif, passing through France, Italy, and Switzerland. Marvel at breathtaking alpine scenery, charming villages, and glacier-fed lakes. With a challenging difficulty level, this trail offers an elevation gain and descent of 10000 meters each, providing a true European hiking adventure.",
+        "difficulty": 5,
+        "image": "https://www.muchbetteradventures.com/magazine/content/images/size/w1000/2021/06/ana-frantz-y1TqsDClhKM-unsplash--1-.jpg",
+        "region": "France, Italy, Switzerland",
+        "owner": 1
+      }
+    },
+    {
+      "model": "trails.trail",
+      "pk": 15,
+      "fields": {
+        "name": "Puez-Odle Altopiano",
+        "length": 22.0,
+        "elevation": 900.0,
+        "descent": 900.0,
+        "description": "Explore the Puez-Odle Altopiano in the Dolomites of Italy, a 22-kilometer trail offering panoramic views of rugged peaks and alpine meadows. With a moderate difficulty level, this trek provides an elevation gain and descent of 900 meters each. Immerse yourself in the unique geology and natural beauty of the Dolomite mountain range.",
+        "difficulty": 3,
+        "image": "https://www.andrewswalks.co.uk/wp-content/uploads/feat-65-1024x682.jpg",
+        "region": "Italy",
+        "owner": 1
+      }
+    },
+    {
+      "model": "trails.trail",
+      "pk": 16,
+      "fields": {
+        "name": "Laugavegur Trail",
+        "length": 55.0,
+        "elevation": 1400.0,
+        "descent": 1100.0,
+        "description": "Embark on the Laugavegur Trail in Iceland, a 55-kilometer journey through the surreal landscapes of geysers, hot springs, and volcanic plains. This moderately challenging trail offers an elevation gain of 1400 meters and a descent of 1100 meters. Immerse yourself in the otherworldly beauty of the Icelandic highlands.",
+        "difficulty": 3,
+        "image": "https://57hours.com/wp-content/uploads/2022/03/laugavegur-hiking-m.jpeg",
+        "region": "Iceland",
+        "owner": 1
+      }
+    },
+    {
+      "model": "trails.trail",
+      "pk": 17,
+      "fields": {
+        "name": "The Haute Route",
+        "length": 180.0,
+        "elevation": 15000.0,
+        "descent": 15000.0,
+        "description": "Embark on the iconic Haute Route, a 180-kilometer trek connecting Chamonix in France to Zermatt in Switzerland. Traverse high mountain passes, glaciers, and charming alpine villages. With a challenging difficulty level, this trail offers an elevation gain and descent of 15000 meters each, providing a true alpine adventure.",
+        "difficulty": 5,
+        "image": "https://www.alpineexploratory.com/images/sliders/barragedumoiry.jpg",
+        "region": "France, Switzerland",
+        "owner": 1
+      }
+    },
+    {
+      "model": "trails.trail",
+      "pk": 18,
+      "fields": {
+        "name": "Table Mountain Hike",
+        "length": 6.0,
+        "elevation": 1067.0,
+        "descent": 1067.0,
+        "description": "Enjoy the breathtaking views of Cape Town from the Table Mountain Hike in South Africa. This 6-kilometer trail takes you to the summit of Table Mountain, offering panoramic vistas of the city, ocean, and surrounding landscapes. With a moderate difficulty level, this trail provides an elevation gain and descent of 1067 meters each, making it a must-do hike in the Western Cape.",
+        "difficulty": 3,
+        "image": "https://blog.goway.com/globetrotting/wp-content/uploads/2019/03/Table-mountain-at-sunset-Cape-Town-South-Africa-_492187513.jpg",
+        "region": "South Africa",
+        "owner": 1
+      }
+    },
+    {
+      "model": "trails.trail",
+      "pk": 19,
+      "fields": {
+        "name": "Glymur Waterfall Trail",
+        "length": 7.0,
+        "elevation": 450.0,
+        "descent": 450.0,
+        "description": "Discover the beauty of Glymur Waterfall Trail in Iceland, a 7-kilometer trek leading to the second-highest waterfall in the country. Enjoy the serenity of Icelandic nature, crossing rivers and ascending to stunning viewpoints. With a moderate difficulty level, this trail offers an elevation gain and descent of 450 meters each, providing a memorable Icelandic experience.",
+        "difficulty": 3,
+        "image": "https://s27363.pcdn.co/wp-content/uploads/2020/05/Glymur-Waterfall-1-1200x900.jpg.optimal.jpg",
+        "region": "Iceland",
+        "owner": 1
+      }
+    },
+    {
+      "model": "trails.trail",
+      "pk": 20,
+      "fields": {
+        "name": "Great Ocean Walk",
+        "length": 104.0,
+        "elevation": 1000.0,
+        "descent": 1000.0,
+        "description": "Explore the stunning coastline of Victoria, Australia, on the Great Ocean Walk, a 104-kilometer trail along the iconic Great Ocean Road. Enjoy breathtaking views of limestone cliffs, pristine beaches, and the Twelve Apostles. With a moderate difficulty level, this trail offers an elevation gain and descent of 1000 meters each, providing a unique coastal hiking experience.",
+        "difficulty": 3,
+        "image": "https://www.switchbacktravel.com/sites/default/files/images/articles/Great%20Ocean%20Walk%20%28hiking%20along%20bluff%20above%20ocean%29.jpg",
+        "region": "Australia",
+        "owner": 1
+      }
+    },
+    {
+      "model": "trails.trail",
+      "pk": 21,
+      "fields": {
+        "name": "Praia da Ursa Trail",
+        "length": 5.0,
+        "elevation": 150.0,
+        "descent": 150.0,
+        "description": "Experience the wild beauty of Praia da Ursa Trail in Portugal, a 5-kilometer hike leading to the secluded Praia da Ursa beach. Traverse rugged cliffs, witness the power of the Atlantic Ocean, and enjoy stunning coastal panoramas. With a moderate difficulty level, this trail offers an elevation gain and descent of 150 meters each, providing a peaceful escape near Cabo da Roca.",
+        "difficulty": 3,
+        "image": "https://theanniediaries.com/wp-content/uploads/2019/05/P4213990-1440x1049.jpg",
+        "region": "Portugal",
+        "owner": 1
+      }
+    }
+  ]
