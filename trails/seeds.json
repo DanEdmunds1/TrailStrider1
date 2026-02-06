@@ -76,21 +76,6 @@
     },
     {
       "model": "trails.trail",
-      "pk": 6,
-      "fields": {
-        "name": "Carl Wheezer Memorial Trail",
-        "length": 10.0,
-        "elevation": 20.0,
-        "descent": 20.0,
-        "description": "Take a peaceful stroll around this scenic vista dedicated to celebrating the work and achievements of Carl Wheezer form Jimmy Neutron",
-        "difficulty": 0.0,
-        "image": "https://res.cloudinary.com/dnpbbx7kb/image/upload/v1705597950/trailstrider/daau2h4rlclgyyl8kq8h.jpg",
-        "region": "Retroville, Texas, USA",
-        "owner": 1
-      }
-    },
-    {
-      "model": "trails.trail",
       "pk": 7,
       "fields": {
         "name": "Torres del Paine Circuit",
