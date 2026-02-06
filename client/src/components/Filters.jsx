@@ -18,6 +18,7 @@ export default function Filters({ searchTrails, setFilteredSearchTrails }) {
     setFilters(newObj)
   }
 
+  
 
   useEffect(() => {
     const pattern = new RegExp(filters.search, 'i')
